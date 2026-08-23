@@ -28,3 +28,15 @@ class Program
     }
 }
 
+//Why We Created a Class (RangeSum)
+// 1 . Precompute Once: The constructor (RangeSum(int[] nums)) runs the $O(n)$ prefix
+//sum loop only once when the object is instantiated.
+// 2 . Query Many Times: The array's running total is saved inside the instance. Subsequent
+// calls to Query(l, r) can be executed thousands of times at $O(1)$ speed without recalculating the prefix sums each time.
+
+
+//  Why readonly on private readonly long[] pre;
+//Immutability (Prevents Accidental Overwriting):
+//Clear Design Intent:
+//The problem states that the array is immutable (it does not change after creation).
+//readonly documents in code that this data structure is write-once, read-many.

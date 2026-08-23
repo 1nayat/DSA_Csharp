@@ -5,5 +5,6 @@
     <Project Path="PrefixSums/PrefixSums.csproj" Id="43753e59-94ac-42be-8937-00d9bb1162d2" />
     <Project Path="RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArray.csproj" Id="afc57184-37fe-4402-bf76-88245637332a" />
     <Project Path="RemoveElementTwoPointer/RemoveElementTwoPointer.csproj" Id="d80b8807-ac3d-4c7f-9ced-6ca4d3bcc201" />
+    <Project Path="SuffixSum/SuffixSum.csproj" Id="a48397db-7d28-4958-80a5-4dd8751c8966" />
   </Folder>
 </Solution>
