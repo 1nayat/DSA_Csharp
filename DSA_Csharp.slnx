@@ -3,6 +3,8 @@
     <Project Path="arrayInsertionDeletion/arrayInsertionDeletion.csproj" />
     <Project Path="MoveZeroesToEnd/MoveZeroesToEnd.csproj" Id="1692159c-4b6e-46d7-8bdd-3db11fd6ace2" />
     <Project Path="PrefixSums/PrefixSums.csproj" Id="43753e59-94ac-42be-8937-00d9bb1162d2" />
+    <Project Path="ProductOfArrayExceptItself/ProductOfArrayExceptItself.csproj" Id="b583189e-642c-4bec-8080-3a3d83584143" />
+    <Project Path="RangeUpdateUsingDifferenceArray/RangeUpdateUsingDifferenceArray.csproj" Id="2820af92-7555-451d-9556-c01a40517689" />
     <Project Path="RemoveDuplicatesSortedArray/RemoveDuplicatesSortedArray.csproj" Id="afc57184-37fe-4402-bf76-88245637332a" />
     <Project Path="RemoveElementTwoPointer/RemoveElementTwoPointer.csproj" Id="d80b8807-ac3d-4c7f-9ced-6ca4d3bcc201" />
     <Project Path="SuffixSum/SuffixSum.csproj" Id="a48397db-7d28-4958-80a5-4dd8751c8966" />
