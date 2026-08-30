@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Arrays/">
     <Project Path="arrayInsertionDeletion/arrayInsertionDeletion.csproj" />
+    <Project Path="ArrayRotationUsingReversal/ArrayRotationUsingReversal.csproj" Id="b5ef582d-8c49-4da3-bb47-e1596b981355" />
     <Project Path="CharacterFrequencyCounter/CharacterFrequencyCounter.csproj" Id="ae1e4dcb-6946-4d3b-a1a7-a49b3d74f58e" />
     <Project Path="MaxProductSubArray/MaxProductSubArray.csproj" Id="c6cd5166-b494-4611-84eb-27b9e2ace311" />
     <Project Path="MaxSubArraySum_kdnAlgo/MaxSubArraySum_kdnAlgo.csproj" Id="f57e8009-3429-40b1-af10-089eb6b661eb" />
