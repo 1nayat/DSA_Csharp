@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System.Timers;
+
+class Program
 {
     public static void Main()
     {
@@ -41,3 +43,7 @@
         return merged.ToArray();
     }
 }
+
+//Time complexity: O(n log n) because of sorting.
+
+//Space complexity: O(n) for the output list.
