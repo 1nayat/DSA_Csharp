@@ -19,4 +19,7 @@
     <Project Path="SpiralMatrix/SpiralMatrix.csproj" Id="b88d7d98-0716-47f5-9eb1-cc52ce71475f" />
     <Project Path="SuffixSum/SuffixSum.csproj" Id="a48397db-7d28-4958-80a5-4dd8751c8966" />
   </Folder>
+  <Folder Name="/Strings/">
+    <Project Path="FrequencyMap/FrequencyMap.csproj" Id="ecb5efed-ec5c-4d82-98d5-4e16988222b6" />
+  </Folder>
 </Solution>
